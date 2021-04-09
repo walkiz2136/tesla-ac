@@ -1,25 +1,7 @@
-{"ip": {
-        "1":"92.42.47.157",
-        "2":"92.42.47.157eaz",
-        "3":"puste",
-        "4":"puste",
-        "5":"puste",
-        "6":"puste",
-        "7":"puste",
-        "8":"puste",
-        "9":"puste",
-        "10":"puste"
-    },
-    "license": {
-        "1":"tesla-1z16q8c4264ed462268qx72z",
-        "2":"tesla-1z16qe8c4264ed462268qx72zaj",
-        "3":"puste",
-        "4":"puste",
-        "5":"puste",
-        "6":"puste",
-        "7":"puste",
-        "8":"puste",
-        "9":"puste",
-        "10":"puste"
+{"licencje": {
+        "1":{
+        "license":"92.42.47.157",
+        "ip":"tesla-1z16q8c4264ed462268qx72z"
+        }
     }
 }
